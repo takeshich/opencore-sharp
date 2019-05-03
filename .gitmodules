@@ -1,3 +1,9 @@
 [submodule "extrenal/av"]
 	path = extrenal/av
 	url = https://android.googlesource.com/platform/frameworks/av
+[submodule "external/av"]
+	path = external/av
+	url = https://android.googlesource.com/platform/frameworks/av
+[submodule "external/nclang"]
+	path = external/nclang
+	url = https://github.com/atsushieno/nclang
